@@ -27,14 +27,14 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kewaunc&show_icons=true&locale=en&layout=compact" alt="kewaunc" /></p>
 
 ## 1. GitHub Stats
-![Your Repository's Stats]https://github-readme-stats.vercel.app/api?username=KewaunC&show_icons=true)
-<!-- ## 2. Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu&theme=blue-green)
+https://github-readme-stats.vercel.app/api?username=KewaunC&show_icons=true)
+## 2. Most Used Languages
+(https://github-readme-stats.vercel.app/api/top-langs/?username=KewaunC&theme=blue-green)
 ## 3. Contributors Badge
-![Your Repository's Stats](https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python)
+(https://contrib.rocks/image?repo=KewaunC)
 ## 4. Random Joke Generator
-![Jokes Card](https://readme-jokes.vercel.app/api)
+(https://readme-jokes.vercel.app/api)
 ## 5. Profile View Counter
-![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
+(https://komarev.com/ghpvc/?username=KewaunC)
 ### Repository View Counter - HITS
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python) -->
+(https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/KewaunC)
