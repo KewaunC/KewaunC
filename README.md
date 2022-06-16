@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://codepen.io/kewaun-cain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kewaun-cain" height="30" width="40" /></a>
 <a href="https://twitter.com/kewauncaindev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kewauncaindev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kewaun-cain/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kewaun-cain/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kewaun-cain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kewaun-cain/" height="30" width="40" /></a>
 <a href="https://discord.gg/Kewaun#3771" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Kewaun#3771" height="30" width="40" /></a>
 </p>
 
