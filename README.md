@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/kewauncaindev" target="blank"><img src="https://img.shields.io/twitter/follow/kewauncaindev?logo=twitter&style=for-the-badge" alt="kewauncaindev" /></a> </p>
 
-- 🌱 I’m currently learning **Phython**
+- 🌱 I’m currently learning **Python **
 
 - 👯 I’m looking to collaborate on **DragonFable Calculator**
 
