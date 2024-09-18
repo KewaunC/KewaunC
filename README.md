@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Python **
 
-- 👯 I’m looking to collaborate on **DragonFable Calculator**
+- 👯 I’m looking to collaborate on **Pokemon Legacy Website**
 
 
 
